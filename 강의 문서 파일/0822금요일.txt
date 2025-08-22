@@ -4,9 +4,85 @@
 디코주소
 https://discord.gg/m4FGuZZb
 
+https://www.w3schools.com/
+ㄴ상단메뉴바 HOW TO클릭
+
+
+
 컬러색알아내기 스포이드 
 https://photokit.com/colors/eyedropper/?lang=ko
 ㄴ인스타 컬러  #515FFD
+
+
+8-22-금요일 수업순서
+ 스타일에 집중 
+ 속성  ul li a  ul > a   
+ display, form속성, position, overflow
+ number+몇번째 nth기술  
+ 
+요소의 바깥쪽 여백(외부여백)설정하는 속성은
+margin 
+
+form태그 대상에서 lable, 컨트롤연결
+<label for='ch2'> <input id='ch2'>
+
+z-index가 동작하려면 기본적으로
+필요한 조건은?
+요소가 포지션position(relative, absolute)
+
+position의 기본 속성은 static
+
+html태그이 인코딩기술
+<meta charset='UTF-8'>
+*-------------------------------------------------------------------------
+
+
+
+이미지및 이모지 사이트 
+ㄴ https://icons8.com/
+ㄴ https://fontawesome.com/
+
+8-20-수요일 수업순서
+글꼴크기 표준 1em = 16px = 12pt 동일 
+
+사과주문광고 만들기
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> 04apple.html</title>
+     <style>
+
+     </style>
+</head>
+<body>
+  <!-- 
+  첫번째 div, 확인사항h1, a태그 주문및배송
+  p태그본문내용 오후2시 이전~~~ 발송합니다(주말제외)   
+  hr태그 가로선 
+  table태그는 비권장 
+  -->
+  <div class="wrap">
+    <img src="https://cdn.imweb.me/thumbnail/20201126/74167caae1c94.png">
+    <div class="container">
+        
+    </div>
+  </div>
+</body>
+</html>
+
+
+
+
+ <form action method> 서브밋버튼  </form>
+ form태그 + 순서없는 <ul> <li> </li> </ul> + 스타일 
+
+ <태그  class="bestA"> class속성 내용 </태그> 접근 .
+ <태그  id="bestA">  id 속성 내용 </태그>  접근 #
+
+
+https://cdn.imweb.me/thumbnail/20201126/74167caae1c94.png
 
 
 인라인,블럭라인 태그분류
